@@ -13,7 +13,7 @@ Explorar como os modelos de IA geram texto e compreender os diferentes parâmetr
 ## Exemplos de Interações
 ### Exemplo 1: Geração de Texto Criativo
 **Prompt**: "Explique o que é fotossíntese."  
-**Resposta**: "A fotossíntese é o processo pelo qual as plantas convertem luz solar em energia química..."  
+**Resposta**: A fotossíntese é o processo pelo qual as plantas convertem luz solar em energia química, usando água e dióxido de carbono para produzir glicose e oxigênio. Isso ocorre nas cloroplastos, onde a luz é captada e transformada em energia para alimentar a planta e liberar oxigênio. 
 **Parâmetros**: Temperature = 0.7, Max Tokens = 50.
 
 ### Exemplo 2: Tradução
