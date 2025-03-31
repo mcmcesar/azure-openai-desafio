@@ -1,0 +1,13 @@
+Exemplo 2: Tradução
+Prompt :
+"Traduza a frase 'O conhecimento é poder' para o inglês."
+
+Resposta :
+"Knowledge is power."
+
+Parâmetros :
+
+Temperature: 0.2 (mais preciso).
+Max Tokens: 10.
+Explicação :
+Este exemplo demonstra como o modelo pode ser usado para traduzir frases simples entre idiomas. O parâmetro Temperature = 0.2 garante uma resposta objetiva e acurada.
