@@ -1,0 +1,13 @@
+Exemplo 3: Resumo de Texto
+Prompt :
+"Resuma o seguinte texto em 2 frases: A fotossíntese é o processo pelo qual as plantas convertem luz solar em energia química. Durante esse processo, as plantas absorvem dióxido de carbono e liberam oxigênio. A energia química é armazenada na forma de glicose, que é usada para alimentar as células da planta."
+
+Resposta :
+"A fotossíntese é o processo em que as plantas convertem luz solar em energia química, absorvendo dióxido de carbono e liberando oxigênio. Essa energia é armazenada como glicose para alimentar as células da planta."
+
+Parâmetros :
+
+Temperature: 0.5 (equilíbrio entre precisão e criatividade).
+Max Tokens: 30.
+Explicação :
+Este exemplo mostra como o modelo pode condensar informações mantendo o significado original do texto.
