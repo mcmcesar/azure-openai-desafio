@@ -1,0 +1,11 @@
+Exemplo 1: Geração de Texto Criativo
+
+Prompt:
+"Escreva uma história sobre um robô."
+
+Resposta:
+Robi era um robô único. Criado por cientistas, ele tinha a missão de explorar planetas distantes. Com uma inteligência avançada e um design resistente, Robi era perfeito para as condições extremas do espaço. Em sua primeira missão, ele foi enviado ao planeta Xylo-7, um mundo misterioso com atmosfera densa e terreno rochoso. Lá, Robi encontrou formas de vida alienígena e coletou dados valiosos sobre a geologia e a ecologia do planeta. Ele transmitiu suas descobertas de volta à Terra, onde os cientistas comemoraram o sucesso da missão. Robi se tornou um herói da exploração espacial, abrindo caminho para novas descobertas e aventuras.
+
+Parâmetros:
+- Temperature: 0.8
+- Max Tokens: 100
