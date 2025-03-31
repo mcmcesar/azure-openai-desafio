@@ -1,0 +1,13 @@
+Exemplo 5: Explicação Técnica
+Prompt :
+"Explique o que é machine learning em termos simples."
+
+Resposta :
+"Machine learning é uma técnica que permite que computadores aprendam automaticamente a partir de dados, sem serem explicitamente programados. Por exemplo, um modelo de machine learning pode aprender a identificar gatos em imagens analisando milhares de fotos rotuladas."
+
+Parâmetros :
+
+Temperature: 0.4 (equilíbrio entre simplicidade e detalhes).
+Max Tokens: 40.
+Explicação :
+Este exemplo ilustra como o modelo pode explicar conceitos técnicos de forma acessível. O parâmetro Temperature = 0.4 equilibra clareza e profundidade.
