@@ -1,0 +1,15 @@
+Exemplo 4: Geração de Ideias Criativas
+Prompt :
+"Sugira três ideias criativas para um evento de sustentabilidade na escola."
+
+Resposta :
+"1. Organize uma feira de reciclagem onde os alunos tragam materiais recicláveis e criem novos objetos.
+2. Realize uma oficina de jardinagem, ensinando os alunos a plantar árvores e cuidar do meio ambiente.
+3. Promova uma campanha de conscientização sobre o uso consciente de água e energia, com desafios semanais."
+
+Parâmetros :
+
+Temperature: 0.8 (mais criativo).
+Max Tokens: 50.
+Explicação :
+Aqui, o modelo foi ajustado para gerar ideias inovadoras e envolventes. O parâmetro Temperature = 0.8 incentiva respostas mais criativas.
